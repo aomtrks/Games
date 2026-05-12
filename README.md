@@ -1,11 +1,11 @@
-# 🎮 Game: A Collection of Mini Games Developed with Python
+# Game: A Collection of Mini Games Developed with Python
 
 This repository contains mini-game projects that I developed as a Software Engineering student using the Python programming language and various libraries (e.g., Pygame).
 These projects were created to apply Object-Oriented Programming (OOP) principles and fundamental game development logic.
 
 ---
 
-## ✨ Key Learnings
+## Key Learnings
 
 Through this collection, I gained experience in the following areas:
 
@@ -16,7 +16,7 @@ Through this collection, I gained experience in the following areas:
 
 ---
 
-## 🛠️ Local Setup and Execution
+## Local Setup and Execution
 
 Follow these steps to run these games on your local machine.
 
